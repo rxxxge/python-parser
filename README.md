@@ -7,7 +7,8 @@ Run --> python3/python xsl_write.py
 
 
 <img width="584" alt="Снимок экрана 2022-11-14 в 00 52 44" src="https://user-images.githubusercontent.com/61519936/201585623-f76ca593-e6d5-41ec-88ac-de4c92fd7d12.png">
-<img width="1033" alt="Снимок экрана 2022-11-14 в 00 30 45" src="https://user-images.githubusercontent.com/61519936/201585639-f61fd478-52fe-43e0-a729-79e61b893633.png">
+<img width="990" alt="Снимок экрана 2022-11-14 в 00 51 49" src="https://user-images.githubusercontent.com/61519936/201585867-2031c4dd-75c0-47aa-bbaa-9e341ad9df92.png">
+
 
 # Scraped Data:
 
