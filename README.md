@@ -1,5 +1,6 @@
 # python-parser
 Scraped from: https://scrapingclub.com/exercise/list_basic/?page=1
+
 Run --> python3/python xsl_write.py
 
 # Scraped images:
